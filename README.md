@@ -11,7 +11,6 @@ xmake-win32env is a win32 toolchains environment of xmake.
 * [Git for windows v2.10.0](https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/MinGit-2.10.0-32-bit.zip)
 * [Curl v7.54.0](http://www.paehl.com/open_source/?download=curl_754_0_ssl.zip)
 * [Unzip v5.51](http://gnuwin32.sourceforge.net/downlinks/unzip-bin-zip.php)
-* [Tar 1.13](http://gnuwin32.sourceforge.net/downlinks/tar-bin-zip.php)
 * [7zip 16.04](http://www.7-zip.org/a/7z1604.exe)
 * [CMake 3.8.1](https://cmake.org/files/v3.8/cmake-3.8.1-win32-x86.zip)
 
