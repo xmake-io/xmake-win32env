@@ -12,7 +12,6 @@ xmake-win32env 是一个xmake的win32工具链环境
 * [Curl v7.54.0](http://www.paehl.com/open_source/?download=curl_754_0_ssl.zip)
 * [Unzip v5.51](http://gnuwin32.sourceforge.net/downlinks/unzip-bin-zip.php)
 * [7zip 16.04](http://www.7-zip.org/a/7z1604.exe)
-* [CMake 3.8.1](https://cmake.org/files/v3.8/cmake-3.8.1-win32-x86.zip)
 
 如果你想要了解更多，请参考：
 
